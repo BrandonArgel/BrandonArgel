@@ -1,23 +1,49 @@
-<h1>Hello! I am Brandon Argel 🚀</h1>
+# Hello! I am Brandon Argel 🚀 ![Platzi Master](https://img.shields.io/badge/Platzi%20Master-C9-7fc719.svg?logo=platzi)
 
-<p>I am a Web Developer in constant learning and evolution based in México specializing in building websites.<br /> I really enjoy learning and building new things every day.</p>
+I am a Front-End Developer , student of Platzi and part of Platzi Master, I really enjoy learning new things every day and creating for the web. You can visit my work here https://brandonargel.me 💻
 
-[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonArgel&count_private=true&show_icons=true&title_color=16ffe2&icon_color=16ffe2&text_color=ffffff&bg_color=000000&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+💚 I am part of Platzi Master, the community of developers who never stop learning in Latin America.
+
+[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonArgel&count_private=true&show_icons=true&title_color=16ffe2&icon_color=16ffe2&text_color=cccccc&bg_color=000000&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Brandon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonArgel&layout=compact&title_color=16ffe2&icon_color=16ffe2&text_color=ffffff&bg_color=000000&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>Skills and Technologies</h3>
+## 💻 **Tools and Technologies**
 
 <p align="center">
-<img align="left" alt="HTML" title="HTML" height="50px" src="https://firebasestorage.googleapis.com/v0/b/personal-project-brandon.appspot.com/o/svg%2Fhtml.svg?alt=media&token=087ea885-9aac-4f17-a0e8-b0a62bc94f09" /><img align="left" alt="CSS" title="CSS" height="50px" src="https://firebasestorage.googleapis.com/v0/b/personal-project-brandon.appspot.com/o/svg%2Fcss.svg?alt=media&token=60ddd5f7-0337-4614-98f5-8db57e0bb40e" /><img align="left" alt="JavaScript" title="JavaScript" height="50px" src="https://firebasestorage.googleapis.com/v0/b/personal-project-brandon.appspot.com/o/svg%2Fjs.svg?alt=media&token=795b63ae-189b-46eb-a096-0abdf13c98f3" /><img align="left" alt="Git" title="Git" height="50px" src="https://firebasestorage.googleapis.com/v0/b/personal-project-brandon.appspot.com/o/svg%2Fgit.svg?alt=media&token=b826631b-88d7-45eb-87c6-d262b89f786f" /><img align="left" alt="GitHub" title="GitHub" height="50px" src="https://firebasestorage.googleapis.com/v0/b/personal-project-brandon.appspot.com/o/svg%2Fgithub.svg?alt=media&token=42c18610-a4ba-40d8-8436-9f32e1505c98" /><img align="left" alt="Figma" title="Figma" height="50px" src="https://firebasestorage.googleapis.com/v0/b/personal-project-brandon.appspot.com/o/svg%2FFigma.svg?alt=media&token=2f7c1b5d-33a4-48d7-9856-040cc175989d" /><img align="left" alt="React" title="React" height="50px" src="https://firebasestorage.googleapis.com/v0/b/personal-project-brandon.appspot.com/o/svg%2Freact.svg?alt=media&token=3638d1c2-7e83-4edd-809e-c6fcd9a687a9" /><!--<img align="left" alt="Terminal de comandos" title="Terminal de comandos" height="50px" src="https://firebasestorage.googleapis.com/v0/b/personal-project-brandon.appspot.com/o/svg%2Fterminal.svg?alt=media&token=e443153d-6c1d-4c84-9267-2181bc642639" /> -->
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
+  <!-- SCSS -->
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />&nbsp;&nbsp;
+  <!-- JS -->
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;&nbsp;
+  <!-- Typescript -->
+  <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=blue" alt="TypeScript" />&nbsp;&nbsp;
+  <!-- React -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;&nbsp;
+  <!-- Redux -->
+  <img src="https://img.shields.io/badge/Redux-7747bc?style=for-the-badge&logo=redux" alt="Redux" />&nbsp;&nbsp;
+  <!-- NextJS -->
+  <img src="https://img.shields.io/badge/NextJS-0070f5?style=for-the-badge&logo=nextjs" alt="NextJS" />&nbsp;&nbsp;
+  <!-- NodeJS -->
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />&nbsp;&nbsp;
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
+  <!-- GitHub -->
+  <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <!-- Figma -->
+  <img src="https://img.shields.io/badge/figma-%23000.svg?&style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
-</br></br></br>
-<!-- Nav -->
-<h3>Connect with me</h3>
+<hr />
+<br />
 <p align="center">
-<a href="https://platzi.com/p/BrandArgel/" target="_blank"><img height="50" alt="Platzi" title="Platzi" align="left" src="https://firebasestorage.googleapis.com/v0/b/personal-project-brandon.appspot.com/o/svg%2Fplatzi.svg?alt=media&token=54945839-1dcc-48b5-9af7-3fb83445d9b1" /></a><a href="https://twitter.com/BrandonArgelVD" target="_blank"><img height="50" alt="Twitter" title="Twitter" align="left" src="https://firebasestorage.googleapis.com/v0/b/personal-project-brandon.appspot.com/o/svg%2Ftwitter.svg?alt=media&token=8b2470e4-ec9f-4491-b760-2ad8c22a3f32" /></a><a href="https://www.linkedin.com/in/brandargel/" target="_blank"><img height="50" alt="Linkedin" title="Linkedin" align="left" src="https://firebasestorage.googleapis.com/v0/b/personal-project-brandon.appspot.com/o/svg%2Flinkedin.svg?alt=media&token=c0b23b31-dd76-4e9c-87db-3480b13d4c4c" /></a><a href="https://brandonargel.github.io/" target="_blank"><img height="50" alt="Instagram" title="Instagram" align="left" src="https://firebasestorage.googleapis.com/v0/b/personal-project-brandon.appspot.com/o/svg%2Finstagram.svg?alt=media&token=07765296-feb4-461e-9ce0-ca89562bb616" /></a><a href="https://brandonargel.me" target="_blank"><img height="50" alt="Portfolio" title="Portfolio" align="left" src="https://firebasestorage.googleapis.com/v0/b/personal-project-brandon.appspot.com/o/svg%2Flogo.svg?alt=media&token=09e59762-aa3d-4c17-855e-eb7a3be7758f" /></a>
-</p>
-</br></br></br></br>
-<p align="center">
+  <img src="https://img.shields.io/github/followers/BrandonArgel?style=social&label=Follow" alt="Follow on Github" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/twitter/follow/BrandArgel?style=social" alt="Follow on Twitter" />&nbsp;&nbsp;
   <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=BrandonArgel.BrandonArgel" />
+</p>
+<p align="center">
+  <a href="https://platzi.com/p/BrandArgel/" target="_blank"><img height="50" alt="Platzi" title="Platzi" src="https://firebasestorage.googleapis.com/v0/b/personal-project-brandon.appspot.com/o/svg%2Fplatzi.svg?alt=media&token=9e2314c6-bb25-4eb7-94fe-d0bc5e59993c" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/brandargel/" target="_blank">
+    <img height="50" alt="Linkedin" title="Linkedin" src="https://firebasestorage.googleapis.com/v0/b/personal-project-brandon.appspot.com/o/svg%2Flinkedin.svg?alt=media&token=82df4fa0-47d6-4310-b7ee-d4c03a1b5579" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/brandargel/" target="_blank"><img height="50" alt="Instagram" title="Instagram" src="https://firebasestorage.googleapis.com/v0/b/personal-project-brandon.appspot.com/o/svg%2Finstagram.svg?alt=media&token=25a027d4-fb3d-47b5-8ac1-cf9480455f82" />&nbsp;&nbsp;</a><a href="https://brandonargel.me" target="_blank"><img height="50" alt="Portfolio" title="Portfolio" src="https://firebasestorage.googleapis.com/v0/b/personal-project-brandon.appspot.com/o/svg%2Flogo.svg?alt=media&token=403f2b8e-0ef7-48ad-bd30-1f3c2093e2f4" /></a>
 </p>
