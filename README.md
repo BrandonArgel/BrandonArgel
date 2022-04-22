@@ -1,4 +1,4 @@
-# Hello! I am Brandon Argel 🚀 ![Platzi Master](https://img.shields.io/badge/Platzi%20Master-C9-7fc719.svg?logo=platzi)
+# Hello! I am Brandon Argel 🚀 [![Platzi Master](https://img.shields.io/badge/Platzi%20Master-C9-7fc719.svg?logo=platzi)](https://platzi.com/@BrandArgel)
 
 I am a Front-End Developer , student of Platzi and part of Platzi Master, I really enjoy learning new things every day and creating for the web. You can visit my work here https://brandonargel.me 💻
 
@@ -45,6 +45,6 @@ I am a Front-End Developer , student of Platzi and part of Platzi Master, I real
 
 ![Github](https://img.shields.io/github/followers/BrandonArgel?style=social)
 &nbsp;
-![Follow on Twitter](https://img.shields.io/twitter/follow/BrandArgel?style=social)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/BrandArgel?style=social)](https://twitter.com/intent/follow?screen_name=BrandArgel)
 &nbsp;
 ![Follow on Instagram](https://visitor-badge.laobi.icu/badge?page_id=BrandonArgel.BrandonArgel)
