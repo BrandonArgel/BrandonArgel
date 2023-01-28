@@ -8,7 +8,7 @@ I am a Front-End Developer, student of Platzi and part of Platzi Master, I reall
 
 [![Brandon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonArgel&layout=compact&title_color=16ffe2&icon_color=16ffe2&text_color=ffffff&bg_color=111111&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Brandon's Stats](https://streak-stats.demolab.com?user=BrandonArgel&theme=dark&background=111111&border=111111&stroke=ffffff&ring=16ffe2&fire=16ffe2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=16ffe2&sideLabels=16ffe2&dates=ffffff&mode=weekly)](https://git.io/streak-stats)
+[![Brandon's Stats](https://streak-stats.demolab.com?user=BrandonArgel&theme=dark&background=111111&border=111111&stroke=ffffff&ring=16ffe2&fire=16ffe2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=16ffe2&sideLabels=16ffe2&dates=ffffff)](https://git.io/streak-stats)
 
 ## 💻 **Tools and Technologies**
 
