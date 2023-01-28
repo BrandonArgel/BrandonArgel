@@ -1,12 +1,14 @@
 # Hello! I am Brandon Argel 🚀 [![Platzi Master](https://img.shields.io/badge/Platzi%20Master-C9-7fc719.svg?logo=platzi)](https://platzi.com/@BrandArgel)
 
-I am a Front-End Developer , student of Platzi and part of Platzi Master, I really enjoy learning new things every day and creating for the web. You can visit my work here https://brandonargel.me 💻
+I am a Front-End Developer, student of Platzi and part of Platzi Master, I really enjoy learning new things every day and creating for the web. You can visit my work here https://brandonargel.me 💻
 
 💚 I am part of Platzi Master, the community of developers who never stop learning in Latin America.
 
-[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonArgel&count_private=true&show_icons=true&title_color=16ffe2&icon_color=16ffe2&text_color=cccccc&bg_color=000000&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonArgel&count_private=true&show_icons=true&title_color=16ffe2&icon_color=16ffe2&text_color=cccccc&bg_color=111111&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Brandon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonArgel&layout=compact&title_color=16ffe2&icon_color=16ffe2&text_color=ffffff&bg_color=000000&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Brandon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonArgel&layout=compact&title_color=16ffe2&icon_color=16ffe2&text_color=ffffff&bg_color=111111&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Brandon's Stats](https://streak-stats.demolab.com?user=BrandonArgel&theme=dark&background=111111&border=111111&stroke=ffffff&ring=16ffe2&fire=16ffe2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=16ffe2&sideLabels=16ffe2&dates=ffffff&mode=weekly)](https://git.io/streak-stats)
 
 ## 💻 **Tools and Technologies**
 
@@ -34,7 +36,17 @@ I am a Front-End Developer , student of Platzi and part of Platzi Master, I real
   <!-- GitHub -->
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <!-- Figma -->
-  <img src="https://img.shields.io/badge/figma-%23000.svg?&style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/figma-%23000.svg?&style=for-the-badge&logo=figma&logoColor=pink" alt="Figma" />
+  <!-- Markdown -->
+  <img src="https://img.shields.io/badge/markdown-%23000.svg?&style=for-the-badge&logo=markdown" alt="Markdown" />
+  <!-- NPM -->
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+  <!-- Vite.js -->
+  <img src="https://img.shields.io/badge/Vite.js-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite.js" />
+  <!-- Tailwind CSS -->
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <!-- Styled Components -->
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
 </p>
 <hr />
 <br />
