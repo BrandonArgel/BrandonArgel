@@ -1,8 +1,12 @@
 # Hello! I am Brandon Argel 🚀 [![Platzi Master](https://img.shields.io/badge/Platzi%20Master-C9-7fc719.svg?logo=platzi)](https://platzi.com/@BrandArgel)
 
-I am a Front-End Developer, student of Platzi and part of Platzi Master, I really enjoy learning new things every day and creating for the web. You can visit my work here https://brandonargel.me 💻
+I'm a software developer with experience in frontend technologies such as HTML, CSS, preprocessors such as SCSS, JavaScript, TypeScript, Git, and GitHub, with solid knowledge in designing and creating pages with React and libraries such as Next, Redux, Styled-Components, among others.
 
-💚 I am part of Platzi Master, the community of developers who never stop learning in Latin America.
+Interested in high-impact projects that allow me to combine different frameworks and technologies, culminating in delivering added value to its users.
+
+I am an education enthusiast, so I am constantly learning foreign languages like English, and French, programming languages, and public speaking, as they are tools that will help me share with more people and grow together.
+
+I invite you to learn more about me and my work at brandonargel.me. You can contact me by email at brandargel@gmail.com in order to develop effective and high-impact web applications. 🚀
 
 [![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonArgel&count_private=true&show_icons=true&title_color=16ffe2&icon_color=16ffe2&text_color=cccccc&bg_color=111111&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
