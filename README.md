@@ -6,7 +6,7 @@ Interested in high-impact projects that allow me to combine different frameworks
 
 I am an education enthusiast, so I am constantly learning foreign languages like English, and French, programming languages, and public speaking, as they are tools that will help me share with more people and grow together.
 
-I invite you to learn more about me and my work at [brandonargel.me](https://brandonargel.me/). You can contact me by email at brandargel@gmail.com in order to develop effective and high-impact web applications. 🚀
+I invite you to learn more about me and my work at [brandonargel.me](https://brandonargel.com/). You can contact me by email at brandargel@gmail.com in order to develop effective and high-impact web applications. 🚀
 
 [![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonArgel&count_private=true&show_icons=true&title_color=16ffe2&icon_color=16ffe2&text_color=cccccc&bg_color=111111&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
