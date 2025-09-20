@@ -88,7 +88,7 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
   </a>&nbsp;
   <!-- Twitter -->
   <a href="https://twitter.com/intent/follow?screen_name=BrandArgel" target="_blank">
-    <img height="30" alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+    <img height="30" alt="X" title="Portfolio" src="https://img.shields.io/badge/_-000000?style=for-the-badge&logo=x" target="_blank">
   </a>&nbsp;
 </div>
 <br />
