@@ -96,3 +96,7 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 ![Github](https://img.shields.io/github/followers/BrandonArgel?style=social)
 &nbsp;
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=BrandonArgel.BrandonArgel)
+
+## ⚡ Recent activity
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update--
