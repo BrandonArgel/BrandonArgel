@@ -100,9 +100,9 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [BrandonArgel/BrandonArgel](https://github.com/BrandonArgel/BrandonArgel)<br>
-2. ⬆️ Pushed 1 commit(s) to [PetsHealthCare/.github](https://github.com/PetsHealthCare/.github)<br>
-3. 📔 Created new repository [PetsHealthCare/.github](https://github.com/PetsHealthCare/.github)<br>
-4. ⬆️ Pushed 2 commit(s) to [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
-5. 🎉 Merged PR [#23](https://github.com/BrandonArgel/portfolio/pull/23) in [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
+2. ⬆️ Pushed 1 commit(s) to [BrandonArgel/BrandonArgel](https://github.com/BrandonArgel/BrandonArgel)<br>
+3. ⬆️ Pushed 1 commit(s) to [PetsHealthCare/.github](https://github.com/PetsHealthCare/.github)<br>
+4. 📔 Created new repository [PetsHealthCare/.github](https://github.com/PetsHealthCare/.github)<br>
+5. ⬆️ Pushed 2 commit(s) to [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--
