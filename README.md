@@ -99,10 +99,10 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [BrandonArgel/BrandonArgel](https://github.com/BrandonArgel/BrandonArgel)<br>
+1. ⭐ Starred [midudev/express-typescript](https://github.com/midudev/express-typescript)<br>
 2. ⬆️ Pushed 1 commit(s) to [BrandonArgel/BrandonArgel](https://github.com/BrandonArgel/BrandonArgel)<br>
 3. ⬆️ Pushed 1 commit(s) to [BrandonArgel/BrandonArgel](https://github.com/BrandonArgel/BrandonArgel)<br>
 4. ⬆️ Pushed 1 commit(s) to [BrandonArgel/BrandonArgel](https://github.com/BrandonArgel/BrandonArgel)<br>
-5. ⬆️ Pushed 1 commit(s) to [PetsHealthCare/.github](https://github.com/PetsHealthCare/.github)<br>
+5. ⬆️ Pushed 1 commit(s) to [BrandonArgel/BrandonArgel](https://github.com/BrandonArgel/BrandonArgel)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--
