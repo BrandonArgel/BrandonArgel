@@ -101,8 +101,5 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [efrenruizrubio/base-monorepo](https://github.com/efrenruizrubio/base-monorepo)<br>
 2. ⭐ Starred [midudev/express-typescript](https://github.com/midudev/express-typescript)<br>
-3. ⬆️ Pushed undefined commit(s) to [BrandonArgel/BrandonArgel](https://github.com/BrandonArgel/BrandonArgel)<br>
-4. ⬆️ Pushed undefined commit(s) to [BrandonArgel/BrandonArgel](https://github.com/BrandonArgel/BrandonArgel)<br>
-5. ⬆️ Pushed undefined commit(s) to [BrandonArgel/BrandonArgel](https://github.com/BrandonArgel/BrandonArgel)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--
