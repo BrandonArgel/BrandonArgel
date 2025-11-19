@@ -99,5 +99,6 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [saifyxpro/HeadlessX](https://github.com/saifyxpro/HeadlessX)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--
