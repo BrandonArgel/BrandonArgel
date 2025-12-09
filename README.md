@@ -99,10 +99,10 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [neostandard/neostandard](https://github.com/neostandard/neostandard)<br>
-2. ⬆️ Pushed undefined commit(s) to [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
-3. 💪 Opened PR [#26](undefined) in [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
-4. ⬆️ Pushed undefined commit(s) to [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
+1. ❗️ Opened issue [#62](https://github.com/zincplusplus/habit-tracker/issues/62) in [zincplusplus/habit-tracker](https://github.com/zincplusplus/habit-tracker)<br>
+2. ⭐ Starred [neostandard/neostandard](https://github.com/neostandard/neostandard)<br>
+3. ⬆️ Pushed undefined commit(s) to [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
+4. 💪 Opened PR [#26](undefined) in [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
 5. ⬆️ Pushed undefined commit(s) to [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--
