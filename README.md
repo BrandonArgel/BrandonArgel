@@ -99,7 +99,7 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [BrandonArgel/cypress](https://github.com/BrandonArgel/cypress)<br>
+1. ⭐ Starred [PlatziLabs/fake-api-backend](https://github.com/PlatziLabs/fake-api-backend)<br>
 2. ⬆️ Pushed undefined commit(s) to [BrandonArgel/cypress](https://github.com/BrandonArgel/cypress)<br>
 3. ⬆️ Pushed undefined commit(s) to [BrandonArgel/cypress](https://github.com/BrandonArgel/cypress)<br>
 4. ⬆️ Pushed undefined commit(s) to [BrandonArgel/cypress](https://github.com/BrandonArgel/cypress)<br>
