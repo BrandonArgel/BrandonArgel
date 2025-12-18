@@ -99,9 +99,9 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [PlatziLabs/fake-api-backend](https://github.com/PlatziLabs/fake-api-backend)<br>
-2. ⬆️ Pushed undefined commit(s) to [BrandonArgel/cypress](https://github.com/BrandonArgel/cypress)<br>
-3. ⬆️ Pushed undefined commit(s) to [BrandonArgel/cypress](https://github.com/BrandonArgel/cypress)<br>
+1. ⭐ Starred [MikeMcl/decimal.js](https://github.com/MikeMcl/decimal.js)<br>
+2. ⭐ Starred [MikeMcl/big.js](https://github.com/MikeMcl/big.js)<br>
+3. ⭐ Starred [PlatziLabs/fake-api-backend](https://github.com/PlatziLabs/fake-api-backend)<br>
 4. ⬆️ Pushed undefined commit(s) to [BrandonArgel/cypress](https://github.com/BrandonArgel/cypress)<br>
 5. ⬆️ Pushed undefined commit(s) to [BrandonArgel/cypress](https://github.com/BrandonArgel/cypress)<br>
 <!--RECENT_ACTIVITY:end-->
