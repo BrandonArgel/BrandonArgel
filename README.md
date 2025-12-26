@@ -99,10 +99,10 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [BrandonArgel/typescript](https://github.com/BrandonArgel/typescript)<br>
-2. ⬆️ Pushed undefined commit(s) to [BrandonArgel/typescript](https://github.com/BrandonArgel/typescript)<br>
-3. ⭐ Starred [MikeMcl/decimal.js](https://github.com/MikeMcl/decimal.js)<br>
-4. ⭐ Starred [MikeMcl/big.js](https://github.com/MikeMcl/big.js)<br>
-5. ⭐ Starred [PlatziLabs/fake-api-backend](https://github.com/PlatziLabs/fake-api-backend)<br>
+1. ⬆️ Pushed undefined commit(s) to [BrandonArgel/react-ts](https://github.com/BrandonArgel/react-ts)<br>
+2. ⬆️ Pushed undefined commit(s) to [BrandonArgel/react-ts](https://github.com/BrandonArgel/react-ts)<br>
+3. ⬆️ Pushed undefined commit(s) to [BrandonArgel/typescript](https://github.com/BrandonArgel/typescript)<br>
+4. ⬆️ Pushed undefined commit(s) to [BrandonArgel/typescript](https://github.com/BrandonArgel/typescript)<br>
+5. ⭐ Starred [MikeMcl/decimal.js](https://github.com/MikeMcl/decimal.js)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--
