@@ -100,9 +100,9 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [BrandonArgel/react-ts](https://github.com/BrandonArgel/react-ts)<br>
-2. ⭐ Starred [typescript-cheatsheets/react-native](https://github.com/typescript-cheatsheets/react-native)<br>
-3. ⭐ Starred [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react)<br>
-4. ⬆️ Pushed undefined commit(s) to [BrandonArgel/react-ts](https://github.com/BrandonArgel/react-ts)<br>
+2. ⬆️ Pushed undefined commit(s) to [BrandonArgel/react-ts](https://github.com/BrandonArgel/react-ts)<br>
+3. ⭐ Starred [typescript-cheatsheets/react-native](https://github.com/typescript-cheatsheets/react-native)<br>
+4. ⭐ Starred [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react)<br>
 5. ⬆️ Pushed undefined commit(s) to [BrandonArgel/react-ts](https://github.com/BrandonArgel/react-ts)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--
