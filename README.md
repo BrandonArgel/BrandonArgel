@@ -99,10 +99,10 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>
+1. ⬆️ Pushed undefined commit(s) to [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
 2. ⬆️ Pushed undefined commit(s) to [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
-3. ⭐ Starred [facebook/docusaurus](https://github.com/facebook/docusaurus)<br>
+3. ⭐ Starred [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>
 4. ⬆️ Pushed undefined commit(s) to [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
-5. ⬆️ Pushed undefined commit(s) to [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
+5. ⭐ Starred [facebook/docusaurus](https://github.com/facebook/docusaurus)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--
