@@ -99,10 +99,10 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
+1. ⭐ Starred [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography)<br>
 2. ⬆️ Pushed undefined commit(s) to [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
 3. ⬆️ Pushed undefined commit(s) to [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
-4. ⭐ Starred [midudev/curso-tailwind-abril-2025](https://github.com/midudev/curso-tailwind-abril-2025)<br>
-5. ⭐ Starred [panva/jose](https://github.com/panva/jose)<br>
+4. ⬆️ Pushed undefined commit(s) to [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
+5. ⭐ Starred [midudev/curso-tailwind-abril-2025](https://github.com/midudev/curso-tailwind-abril-2025)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--
