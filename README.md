@@ -101,8 +101,8 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [BrandonArgel/videogame](https://github.com/BrandonArgel/videogame)<br>
 2. ⬆️ Pushed undefined commit(s) to [GMFischer1/api-platzi-store](https://github.com/GMFischer1/api-platzi-store)<br>
-3. ⬆️ Pushed undefined commit(s) to [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
-4. ⬆️ Pushed undefined commit(s) to [BrandonArgel/todo-app](https://github.com/BrandonArgel/todo-app)<br>
-5. ⬆️ Pushed undefined commit(s) to [BrandonArgel/spotify-profile](https://github.com/BrandonArgel/spotify-profile)<br>
+3. ⬆️ Pushed undefined commit(s) to [BrandonArgel/spotify-profile](https://github.com/BrandonArgel/spotify-profile)<br>
+4. ⬆️ Pushed undefined commit(s) to [BrandonArgel/trello-auth](https://github.com/BrandonArgel/trello-auth)<br>
+5. ⬆️ Pushed undefined commit(s) to [BrandonArgel/todo-app](https://github.com/BrandonArgel/todo-app)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--
