@@ -99,10 +99,10 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
+1. ⭐ Starred [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit)<br>
 2. ⬆️ Pushed undefined commit(s) to [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
-3. ⬆️ Pushed undefined commit(s) to [BrandonArgel/videogame](https://github.com/BrandonArgel/videogame)<br>
-4. ⬆️ Pushed undefined commit(s) to [GMFischer1/api-platzi-store](https://github.com/GMFischer1/api-platzi-store)<br>
-5. ⬆️ Pushed undefined commit(s) to [BrandonArgel/spotify-profile](https://github.com/BrandonArgel/spotify-profile)<br>
+3. ⬆️ Pushed undefined commit(s) to [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
+4. ⬆️ Pushed undefined commit(s) to [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
+5. ⬆️ Pushed undefined commit(s) to [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--
