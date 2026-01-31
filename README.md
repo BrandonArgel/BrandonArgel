@@ -99,8 +99,8 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit)<br>
-2. ⬆️ Pushed undefined commit(s) to [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
+1. ⭐ Starred [axios/axios](https://github.com/axios/axios)<br>
+2. ⭐ Starred [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit)<br>
 3. ⬆️ Pushed undefined commit(s) to [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
 4. ⬆️ Pushed undefined commit(s) to [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
 5. ⬆️ Pushed undefined commit(s) to [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
