@@ -99,8 +99,9 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pmndrs/zustand](https://github.com/pmndrs/zustand)<br>
-2. ⬆️ Pushed undefined commit(s) to [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
-3. ⭐ Starred [axios/axios](https://github.com/axios/axios)<br>
+1. ⭐ Starred [microsoft/playwright](https://github.com/microsoft/playwright)<br>
+2. ⭐ Starred [pmndrs/zustand](https://github.com/pmndrs/zustand)<br>
+3. ⬆️ Pushed undefined commit(s) to [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
+4. ⭐ Starred [axios/axios](https://github.com/axios/axios)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--
