@@ -99,10 +99,10 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [BrandonArgel/tetris](https://github.com/BrandonArgel/tetris)<br>
+1. ⭐ Starred [torvalds/linux](https://github.com/torvalds/linux)<br>
 2. ⬆️ Pushed undefined commit(s) to [BrandonArgel/tetris](https://github.com/BrandonArgel/tetris)<br>
-3. ⭐ Starred [JaKooLit/Ubuntu-Hyprland](https://github.com/JaKooLit/Ubuntu-Hyprland)<br>
-4. ⭐ Starred [jhlywa/chess.js](https://github.com/jhlywa/chess.js)<br>
-5. ⭐ Starred [microsoft/playwright](https://github.com/microsoft/playwright)<br>
+3. ⬆️ Pushed undefined commit(s) to [BrandonArgel/tetris](https://github.com/BrandonArgel/tetris)<br>
+4. ⭐ Starred [JaKooLit/Ubuntu-Hyprland](https://github.com/JaKooLit/Ubuntu-Hyprland)<br>
+5. ⭐ Starred [jhlywa/chess.js](https://github.com/jhlywa/chess.js)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--
