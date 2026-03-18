@@ -100,9 +100,9 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [BrandonArgel/node-javascript](https://github.com/BrandonArgel/node-javascript)<br>
-2. ❌ Closed PR [#10259](undefined) in [freddier/hyperblog](https://github.com/freddier/hyperblog)<br>
-3. ❌ Closed PR [#41](undefined) in [Platzi-Master-C9/knowledge-base](https://github.com/Platzi-Master-C9/knowledge-base)<br>
-4. ❌ Closed PR [#43](undefined) in [PlatziMaster/frontend](https://github.com/PlatziMaster/frontend)<br>
-5. ❌ Closed PR [#62](undefined) in [PlatziMaster/frontend](https://github.com/PlatziMaster/frontend)<br>
+2. ⬆️ Pushed undefined commit(s) to [BrandonArgel/node-javascript](https://github.com/BrandonArgel/node-javascript)<br>
+3. ❌ Closed PR [#10259](undefined) in [freddier/hyperblog](https://github.com/freddier/hyperblog)<br>
+4. ❌ Closed PR [#41](undefined) in [Platzi-Master-C9/knowledge-base](https://github.com/Platzi-Master-C9/knowledge-base)<br>
+5. ❌ Closed PR [#43](undefined) in [PlatziMaster/frontend](https://github.com/PlatziMaster/frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--
