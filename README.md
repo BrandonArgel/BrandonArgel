@@ -99,10 +99,10 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [BrandonArgel/node-javascript](https://github.com/BrandonArgel/node-javascript)<br>
+1. ⭐ Starred [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)<br>
 2. ⬆️ Pushed undefined commit(s) to [BrandonArgel/node-javascript](https://github.com/BrandonArgel/node-javascript)<br>
 3. ⬆️ Pushed undefined commit(s) to [BrandonArgel/node-javascript](https://github.com/BrandonArgel/node-javascript)<br>
-4. ❌ Closed PR [#10259](undefined) in [freddier/hyperblog](https://github.com/freddier/hyperblog)<br>
-5. ❌ Closed PR [#41](undefined) in [Platzi-Master-C9/knowledge-base](https://github.com/Platzi-Master-C9/knowledge-base)<br>
+4. ⬆️ Pushed undefined commit(s) to [BrandonArgel/node-javascript](https://github.com/BrandonArgel/node-javascript)<br>
+5. ⬆️ Pushed undefined commit(s) to [BrandonArgel/node-javascript](https://github.com/BrandonArgel/node-javascript)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--
