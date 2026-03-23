@@ -99,9 +99,9 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [BrandonArgel/node-javascript](https://github.com/BrandonArgel/node-javascript)<br>
-2. ⭐ Starred [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)<br>
-3. ⬆️ Pushed undefined commit(s) to [BrandonArgel/node-javascript](https://github.com/BrandonArgel/node-javascript)<br>
+1. ⭐ Starred [niieani/gpt-tokenizer](https://github.com/niieani/gpt-tokenizer)<br>
+2. ⬆️ Pushed undefined commit(s) to [BrandonArgel/node-javascript](https://github.com/BrandonArgel/node-javascript)<br>
+3. ⭐ Starred [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)<br>
 4. ⬆️ Pushed undefined commit(s) to [BrandonArgel/node-javascript](https://github.com/BrandonArgel/node-javascript)<br>
 5. ⬆️ Pushed undefined commit(s) to [BrandonArgel/node-javascript](https://github.com/BrandonArgel/node-javascript)<br>
 <!--RECENT_ACTIVITY:end-->
