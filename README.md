@@ -99,10 +99,10 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [BrandonArgel/node-javascript](https://github.com/BrandonArgel/node-javascript)<br>
-2. ⭐ Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)<br>
-3. ⬆️ Pushed undefined commit(s) to [BrandonArgel/node-javascript](https://github.com/BrandonArgel/node-javascript)<br>
+1. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)<br>
+2. ⬆️ Pushed undefined commit(s) to [BrandonArgel/node-javascript](https://github.com/BrandonArgel/node-javascript)<br>
+3. ⭐ Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)<br>
 4. ⬆️ Pushed undefined commit(s) to [BrandonArgel/node-javascript](https://github.com/BrandonArgel/node-javascript)<br>
-5. ⭐ Starred [niieani/gpt-tokenizer](https://github.com/niieani/gpt-tokenizer)<br>
+5. ⬆️ Pushed undefined commit(s) to [BrandonArgel/node-javascript](https://github.com/BrandonArgel/node-javascript)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--
