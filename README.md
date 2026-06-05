@@ -99,7 +99,8 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nukeop/nuclear](https://github.com/nukeop/nuclear)<br>
-2. ⭐ Starred [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts)<br>
+1. ⭐ Starred [TanStack/query](https://github.com/TanStack/query)<br>
+2. ⭐ Starred [nukeop/nuclear](https://github.com/nukeop/nuclear)<br>
+3. ⭐ Starred [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--
