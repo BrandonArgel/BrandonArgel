@@ -99,10 +99,10 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel)<br>
-2. ⭐ Starred [hiaaryan/sileo](https://github.com/hiaaryan/sileo)<br>
-3. ⭐ Starred [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>
-4. ⬆️ Pushed undefined commit(s) to [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
-5. 💪 Opened PR [#3](undefined) in [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
+1. ⭐ Starred [WebDevSimplified/wds-shadcn-registry](https://github.com/WebDevSimplified/wds-shadcn-registry)<br>
+2. ⭐ Starred [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel)<br>
+3. ⭐ Starred [hiaaryan/sileo](https://github.com/hiaaryan/sileo)<br>
+4. ⭐ Starred [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>
+5. ⬆️ Pushed undefined commit(s) to [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--
