@@ -99,10 +99,10 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [WebDevSimplified/wds-shadcn-registry](https://github.com/WebDevSimplified/wds-shadcn-registry)<br>
-2. ⭐ Starred [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel)<br>
-3. ⭐ Starred [hiaaryan/sileo](https://github.com/hiaaryan/sileo)<br>
-4. ⭐ Starred [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>
-5. ⬆️ Pushed undefined commit(s) to [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
+1. ⬆️ Pushed undefined commit(s) to [BrandonArgel/next-movies-app](https://github.com/BrandonArgel/next-movies-app)<br>
+2. ⭐ Starred [WebDevSimplified/wds-shadcn-registry](https://github.com/WebDevSimplified/wds-shadcn-registry)<br>
+3. ⭐ Starred [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel)<br>
+4. ⭐ Starred [hiaaryan/sileo](https://github.com/hiaaryan/sileo)<br>
+5. ⭐ Starred [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--
