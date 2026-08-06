@@ -100,9 +100,9 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [BrandonArgel/next-movies-app](https://github.com/BrandonArgel/next-movies-app)<br>
-2. ⭐ Starred [WebDevSimplified/wds-shadcn-registry](https://github.com/WebDevSimplified/wds-shadcn-registry)<br>
-3. ⭐ Starred [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel)<br>
-4. ⭐ Starred [hiaaryan/sileo](https://github.com/hiaaryan/sileo)<br>
-5. ⭐ Starred [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>
+2. ⬆️ Pushed undefined commit(s) to [BrandonArgel/next-movies-app](https://github.com/BrandonArgel/next-movies-app)<br>
+3. ⬆️ Pushed undefined commit(s) to [BrandonArgel/next-movies-app](https://github.com/BrandonArgel/next-movies-app)<br>
+4. ⭐ Starred [WebDevSimplified/wds-shadcn-registry](https://github.com/WebDevSimplified/wds-shadcn-registry)<br>
+5. ⭐ Starred [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--
