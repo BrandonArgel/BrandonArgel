@@ -99,10 +99,10 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [supermacro/neverthrow](https://github.com/supermacro/neverthrow)<br>
-2. ⭐ Starred [PKM-er/Blue-Topaz_Obsidian-css](https://github.com/PKM-er/Blue-Topaz_Obsidian-css)<br>
-3. ⬆️ Pushed undefined commit(s) to [BrandonArgel/next-movies-app](https://github.com/BrandonArgel/next-movies-app)<br>
-4. 💪 Opened PR [#7](undefined) in [BrandonArgel/next-movies-app](https://github.com/BrandonArgel/next-movies-app)<br>
+1. ⬆️ Pushed undefined commit(s) to [BrandonArgel/next-movies-app](https://github.com/BrandonArgel/next-movies-app)<br>
+2. 💪 Opened PR [#8](undefined) in [BrandonArgel/next-movies-app](https://github.com/BrandonArgel/next-movies-app)<br>
+3. ⭐ Starred [supermacro/neverthrow](https://github.com/supermacro/neverthrow)<br>
+4. ⭐ Starred [PKM-er/Blue-Topaz_Obsidian-css](https://github.com/PKM-er/Blue-Topaz_Obsidian-css)<br>
 5. ⬆️ Pushed undefined commit(s) to [BrandonArgel/next-movies-app](https://github.com/BrandonArgel/next-movies-app)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--
