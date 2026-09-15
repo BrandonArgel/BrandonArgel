@@ -99,10 +99,10 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2](undefined) in [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
-2. ⭐ Starred [glideapps/quicktype](https://github.com/glideapps/quicktype)<br>
-3. ⬆️ Pushed undefined commit(s) to [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
-4. ⬆️ Pushed undefined commit(s) to [BrandonArgel/security-tool](https://github.com/BrandonArgel/security-tool)<br>
-5. ⬆️ Pushed undefined commit(s) to [BrandonArgel/next-movies-app](https://github.com/BrandonArgel/next-movies-app)<br>
+1. ⬆️ Pushed undefined commit(s) to [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
+2. 💬 Commented on [#4](https://github.com/BrandonArgel/portfolio/pull/4#issuecomment-5675282010) in [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
+3. 💪 Opened PR [#5](undefined) in [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
+4. ⬆️ Pushed undefined commit(s) to [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
+5. 💪 Opened PR [#4](undefined) in [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--
