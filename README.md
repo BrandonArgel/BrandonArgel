@@ -100,9 +100,9 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
-2. 💬 Commented on [#4](https://github.com/BrandonArgel/portfolio/pull/4#issuecomment-5675282010) in [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
-3. 💪 Opened PR [#5](undefined) in [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
-4. ⬆️ Pushed undefined commit(s) to [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
-5. 💪 Opened PR [#4](undefined) in [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
+2. ⬆️ Pushed undefined commit(s) to [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
+3. 💬 Commented on [#4](https://github.com/BrandonArgel/portfolio/pull/4#issuecomment-5675282010) in [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
+4. 💪 Opened PR [#5](undefined) in [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
+5. ⬆️ Pushed undefined commit(s) to [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--
