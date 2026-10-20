@@ -102,6 +102,5 @@ I invite you to learn more about me and my work at [brandonargel.com](https://br
 1. ⬆️ Pushed undefined commit(s) to [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
 2. ⬆️ Pushed undefined commit(s) to [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
 3. ⬆️ Pushed undefined commit(s) to [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
-4. 💪 Opened PR [#6](undefined) in [BrandonArgel/portfolio](https://github.com/BrandonArgel/portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--
